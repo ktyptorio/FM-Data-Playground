@@ -1,0 +1,228 @@
+Nation of Player,Continent of Player,Nation Points
+Belgium,Europe,1783
+France,Europe,1757
+Brazil,South America,1732
+England,Europe,1687
+Portugal,Europe,1666
+Spain,Europe,1648
+Uruguay,South America,1646
+Argentina,South America,1644
+Italy,Europe,1642
+Denmark,Europe,1632
+Mexico,North America,1630
+Colombia,South America,1616
+Germany,Europe,1609
+Switzerland,Europe,1606
+Croatia,Europe,1606
+Holland,Europe,1598
+Wales,Europe,1570
+Sweden,Europe,1570
+Chile,South America,1567
+United States,North America,1555
+Poland,Europe,1550
+Senegal,Africa,1542
+Peru,South America,1531
+Austria,Europe,1523
+Ukraine,Europe,1515
+Japan,Asia,1515
+Serbia,Europe,1513
+Tunisia,Africa,1513
+Turkey,Europe,1505
+Nigeria,Africa,1487
+Algeria,Africa,1487
+Iran,Asia,1484
+Venezuela,South America,1482
+Morocco,Africa,1479
+Paraguay,South America,1475
+Slovakia,Europe,1475
+Hungary,Europe,1469
+South Korea,Asia,1468
+Russia,Europe,1463
+Czech Republic,Europe,1459
+Australia,Asia,1454
+Norway,Europe,1452
+Romania,Europe,1449
+Scotland,Europe,1441
+Jamaica,North America,1433
+Egypt,Africa,1433
+Republic of Ireland,Europe,1427
+Northern Ireland,Europe,1426
+Ghana,Africa,1425
+Costa Rica,North America,1423
+Greece,Europe,1419
+Iceland,Europe,1416
+Finland,Europe,1411
+Bosnia and Herzegovina,Europe,1405
+Cameroon,Africa,1405
+Mali,Africa,1401
+Qatar,Asia,1398
+Ivory Coast,Africa,1398
+Ecuador,South America,1396
+Burkina Faso,Africa,1393
+Saudi Arabia,Asia,1379
+Democratic Republic of Congo,Africa,1377
+North Macedonia,Europe,1375
+Slovenia,Europe,1370
+Montenegro,Europe,1368
+Albania,Europe,1362
+Honduras,North America,1361
+Canada,North America,1350
+Panama,North America,1340
+Bulgaria,Europe,1339
+Iraq,Asia,1339
+China PR,Asia,1336
+United Arab Emirates,Asia,1332
+Guinea,Africa,1332
+Cape Verde Islands,Africa,1330
+South Africa,Africa,1326
+El Salvador,North America,1324
+Syria,Asia,1313
+Curaçao,North America,1308
+Oman,Asia,1302
+Bolivia,South America,1298
+Benin,Africa,1293
+Uganda,Africa,1287
+Haiti,North America,1286
+Israel,Europe,1283
+Zambia,Africa,1280
+Gabon,Africa,1278
+Belarus,Europe,1277
+Armenia,Europe,1273
+Uzbekistan,Asia,1272
+Georgia,Europe,1260
+Vietnam,Asia,1258
+Lebanon,Asia,1256
+Congo,Africa,1256
+Luxembourg,Europe,1245
+Jordan,Asia,1245
+Cyprus,Europe,1241
+Kyrgyzstan,Asia,1240
+Bahrain,Asia,1240
+Madagascar,Africa,1238
+Mauritania,Africa,1225
+Kenya,Africa,1205
+Palestine,Asia,1197
+Trinidad and Tobago,North America,1195
+India,Asia,1184
+Zimbabwe,Africa,1176
+Guinea-Bissau,Africa,1171
+North Korea,Asia,1170
+Azerbaijan,Europe,1169
+Thailand,Asia,1168
+Namibia,Africa,1168
+Niger,Africa,1166
+Faroe Islands,Europe,1165
+Guatemala,North America,1165
+New Zealand,Oceania,1164
+Sierra Leone,Africa,1163
+Estonia,Europe,1162
+Mozambique,Africa,1162
+Malawi,Africa,1162
+Central African Republic,Africa,1158
+Libya,Africa,1156
+Kosovo,Europe,1152
+Tajikistan,Asia,1151
+Sudan,Africa,1149
+Kazakhstan,Europe,1147
+Antigua and Barbuda,North America,1138
+Philippines,Asia,1136
+Angola,Africa,1136
+Rwanda,Africa,1124
+Turkmenistan,Asia,1107
+Comoros,Africa,1106
+Equatorial Guinea,Africa,1105
+Togo,Africa,1104
+Lithuania,Europe,1103
+Saint Kitts and Nevis,North America,1095
+Nicaragua,North America,1090
+Tanzania,Africa,1088
+Suriname,North America,1086
+Latvia,Europe,1082
+Myanmar,Asia,1081
+Ethiopia,Africa,1079
+Chinese Taipei (China PR),Asia,1078
+Burundi,Africa,1076
+Hong Kong (China PR),Asia,1072
+Yemen,Asia,1071
+Solomon Islands,Oceania,1070
+Lesotho,Africa,1070
+Kuwait,Asia,1056
+Afghanistan,Asia,1052
+Botswana,Africa,1052
+Liberia,Africa,1047
+The Gambia,Africa,1043
+New Caledonia,Oceania,1042
+Malaysia,Asia,1040
+Swaziland,Africa,1039
+Maldives,Asia,1038
+Andorra,Europe,1035
+Dominican Republic,North America,1024
+Singapore,Asia,1020
+Barbados,North America,1019
+Tahiti,Oceania,1017
+Saint Vincent and the Grenadines,North America,1007
+Grenada,North America,1002
+Vanuatu,Oceania,990
+Bermuda,North America,990
+Guyana,North America,988
+Fiji,Oceania,986
+South Sudan,Africa,984
+Belize,North America,969
+Nepal,Asia,968
+Papua New Guinea,Oceania,967
+Mauritius,Africa,965
+Cambodia,Asia,964
+Indonesia,Asia,964
+Saint Lucia,North America,957
+Malta,Europe,956
+Moldova,Europe,948
+Chad,Africa,935
+Montserrat,North America,925
+Puerto Rico,North America,925
+Macau (China PR),Asia,922
+Djibouti,Africa,919
+Bangladesh,Asia,917
+Samoa,Oceania,914
+Laos,Asia,912
+Bhutan,Asia,911
+Liechtenstein,Europe,911
+Cuba,North America,911
+Cook Islands,Oceania,906
+Brunei Darussalam,Asia,904
+São Tomé and Príncipe,Africa,903
+Mongolia,Asia,897
+Dominica,North America,893
+Cayman Islands,North America,892
+Gibraltar,Europe,880
+East Timor,Asia,879
+American Samoa,Oceania,879
+Somalia,Africa,879
+Guam,Asia,873
+Pakistan,Asia,867
+Seychelles,Africa,866
+Tonga,Oceania,858
+Eritrea,Africa,856
+Sri Lanka,Asia,853
+Aruba,North America,852
+The Bahamas,North America,846
+Turks and Caicos Islands,North America,840
+US Virgin Islands,North America,825
+British Virgin Islands,North America,813
+San Marino,Europe,805
+Anguilla,North America,797
+Saint Barthélemy,North America,0
+Tuvalu,Oceania,0
+Northern Mariana Islands,Asia,0
+Micronesia,Oceania,0
+Zanzibar,Africa,0
+Saint Pierre and Miquelon,North America,0
+Wallis and Futuna Islands,Oceania,0
+Mayotte,Africa,0
+Réunion,Africa,0
+Saint Martin,North America,0
+Sint Maarten,North America,0
+Martinique,North America,0
+Guadeloupe,North America,0
+French Guiana,North America,0
+Bonaire,North America,0
+Kiribati,Oceania,0
